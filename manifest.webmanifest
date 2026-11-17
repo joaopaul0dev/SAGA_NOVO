@@ -1,0 +1,12 @@
+{
+  "name": "Saga do Caju",
+  "short_name": "Saga do Caju",
+  "id": "com.example.gamename",
+  "description": "Objeto de Aprendizagem desenvolvido pra ensinar pensamento algebrico pra crianças do múnicipio de Parnamirim.",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
